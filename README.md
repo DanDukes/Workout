@@ -19,7 +19,7 @@ dan@degeare.com
  
  ![Dashboard](https://raw.githubusercontent.com/DanDukes/Workout/master/public/images/dashboard.png)
  
- ![MongoDB](https://raw.githubusercontent.com/Workout/master/public/images/mongoDB.png)
+ ![MongoDB](https://raw.githubusercontent.com/DanDukes/Workout/master/public/images/mongoDB.png)
 
 
 ## Purpose
