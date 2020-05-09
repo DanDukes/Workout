@@ -38,12 +38,7 @@ The Workout tracker simply allows a user to record their daily workouts, and the
 
 ## Technologies
   * HTML, CSS, JavaScript, SemanticCSS, Mongoose, Express
-  * [Algolia Places CDN](https://community.algolia.com/places/)
-  * [OpenWeather API](https://openweathermap.org/)
-  * [Font Awesome](https://fontawesome.com/)
   
 ## Known Bugs/ Other Features
-  * Still need additional validation on user input, the app currently allows for any characters to be entered
-  * Minor layout issues
-  * Algolia CDN styling not fully integrated with bootstrap.
+  * There isa a bug with the total Distance calcultion if a workout is entered with a 0 or null number
   
