@@ -13,13 +13,13 @@ dan@degeare.com
 
 [GitConnected](https://gitconnected.com/dandukes)
 
-![landing](https://github.com/DanDukes/Workout/master/public/images/landing.png)
+![landing](https://raw.githubusercontent.com/DanDukes/Workout/master/public/images/landing.png)
 
- ![Adding exercise](https://github.com/DanDukes/Workout/master/public/images/adding.png)
+ ![Adding exercise](https://raw.githubusercontent.com/DanDukes/Workout/master/public/images/adding.png)
  
- ![Dashboard](https://github.com/DanDukes/Workout/master/public/images/dashboard.png)
+ ![Dashboard](https://raw.githubusercontent.com/DanDukes/Workout/master/public/images/dashboard.png)
  
- ![MongoDB](https://github.com/DanDukes/Workout/master/public/images/mongoDB.png)
+ ![MongoDB](https://raw.githubusercontent.com/Workout/master/public/images/mongoDB.png)
 
 
 ## Purpose
